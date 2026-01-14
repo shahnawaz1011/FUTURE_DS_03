@@ -54,3 +54,8 @@ Interactive dashboard creation\
 KPI cards, charts, and tables\
 CSV Dataset\
 Student Satisfaction Survey data
+
+---
+# **DASHBOARD**
+<img width="1279" height="719" alt="image" src="student feedback.png" />
+
